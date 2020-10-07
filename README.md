@@ -32,4 +32,17 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #
 #### p009.py =    WAP to print digits at one's place
 #
-#### p010.py =   WAP to calculate average of 2 numbers and its deviation
+#### p010.py =    WAP to calculate average of 2 numbers and its deviation
+
+##  Program based on Functions , loops , conditionals , strings
+#
+#### p011.py =    WAP to add and subtract two integer type data using Functions
+#
+#### p012.py =    WAP to explain concepts of global , scope , local variable
+#
+#### p013.py =    WAP to write a Recursive function of Factorial
+#
+#### p014.py =    WAP to write a Recursive function of Fibonnacci Series
+#
+#### p015.py =    WAP to demonstrate the use of Lambda Function
+
