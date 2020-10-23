@@ -33,8 +33,9 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #### p009.py =    WAP to print digits at one's place
 #
 #### p010.py =    WAP to calculate average of 2 numbers and its deviation
-
+#
 ##  Program based on Functions , loops , conditionals , strings
+
 #
 #### p011.py =    WAP to add and subtract two integer type data using Functions
 #
@@ -45,4 +46,56 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #### p014.py =    WAP to write a Recursive function of Fibonnacci Series
 #
 #### p015.py =    WAP to demonstrate the use of Lambda Function
+#
+#### p016.py =    WAP to show various types of functions in Python
+#
+#### p017.py =    WAP of args and kwargs
+#
+#### p018.py =    WAP of  two integer numbers which return their  product and if the product is greater than 1000, then return their sum
+#
+#### p019.py =    WAP of string, display only those characters which are present at an even index number. For example str = "computer" so you should display ‘c’, ‘m’, ‘u’, ‘e’.
 
+#
+#### p020.py =    WAP to Reverse a given number and return true if it is the same as the original number.
+#
+#### p021.py =    WAP to Print downward Half-Pyramid Pattern with Star (asterisk)
+                  * * * *
+                  * * *
+                  * *
+                  *
+
+#
+#### p022.py =    WAP to Print the following pattern using for loop
+                  5 4 3 2 1
+                  4 3 2 1
+                  3 2 1
+                  2 1
+                  1
+#
+#### p023.py =    WAP to Display -10 to -1 using for loop.
+#
+#### p024.py =    WAP to Display Fibonacci series up to 10 terms using loop.
+#
+#### p025.py =    WAP of loop to find the factorial of any number
+#
+#### p026.py =    WAP to Given a string of odd length greater 7, return a string made of the middle three chars of a given String
+#
+#### p027.py =    WAP to Count all lower case, upper case, digits, and special symbols from a given string
+#
+##  Program based on Lists and Dictionary and Tupples
+#
+#### p028.py =    WAP to find smallest number in a list
+#
+#### p029.py =    WAP to find second largest number in a list
+#
+#### p030.py =    WAP to count Even and Odd numbers in a List
+#
+#### p031.py =    WAP to Remove multiple elements from a list in Python
+#
+#### p032.py =    WAP  to multiply all the items in a list
+#
+#### p033.py =    WAP  to sort (ascending and descending) a dictionary by value
+#
+#### p034.py =    WAP to create a tuple with different data types
+#
+#### p035.py =    WAP to print sum of all the numbers in a list
