@@ -99,3 +99,23 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #### p034.py =    WAP to create a tuple with different data types
 #
 #### p035.py =    WAP to print sum of all the numbers in a list
+#
+##  More Program based on Functions :-
+#
+#### p036.py =    WAP of function calculation() such that it can accept two variables and calculate their addition and subtraction. And also it must return both addition and subtraction in a single return call
+#
+#### p037.py =    WAP to Create a function showEmployee() in such a way that it should accept employee name, and it’s salary and display both, and if the salary is missing in function call it should show it as 9000
+#
+#### p038.py =    WAP to create a function func1() such that it can accept a variable length of arguments and print all argument values
+#
+#### p039.py =    WAP of recursive function to calculate sum of numbers from 0 to 10
+#
+#### p040.py =    WAP of recursive function to calculate factorial of numbers
+#
+#### p041.py =    WAP of recursive function to display fibonaaci series upto N terms
+#
+#### p042.py =    WAP to create a function that accepts a string and calculates number of uppercase and lowercase letters.
+#
+#### p043.py =    WAP to write a python function that checks whether a passed string is palindrome or not.
+
+
