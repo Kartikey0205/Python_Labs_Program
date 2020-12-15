@@ -117,5 +117,13 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #### p042.py =    WAP to create a function that accepts a string and calculates number of uppercase and lowercase letters.
 #
 #### p043.py =    WAP to write a python function that checks whether a passed string is palindrome or not.
-
-
+#
+## Miscellaneous Programs:
+#### p044.py =    WAP to check the validity of a password given by the user using
+    regular expressions. The Password should satisfy the following criteria:
+    a) Contain at least 1 letter between a and z
+    b) Contain at least 1 number between 0 and 9
+    c) Contain at least 1 letter between A and Z
+    d) Contain at least 1 character from $, #, _, @
+    e) Minimum length of password: 8
+    f) Maximum length of password: 20
