@@ -39,7 +39,7 @@ while True:
 
 """
 Output:
-Enter the password I_hate_you_from_the_c@re_@f_my_h$art(10th_nov_2020)
+Enter the password Hello@990
 Valid Password
 
 """
