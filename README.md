@@ -129,3 +129,6 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
     f) Maximum length of password: 20
 #### p045.py =    WAP to generate a dictionary that contains numbers ranging from 1 to n as keys
     and the values are cube of keys. Prompt the user to enter the value of n.
+#
+#### p046.py =    WAP to show the use of enumerate function.    
+ 
