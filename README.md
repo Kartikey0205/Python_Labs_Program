@@ -137,3 +137,15 @@ I had given the code file with name like p001.py,p002.py,p003.py .....so on , so
 #### p048.py =    WAP to show the use of Map , Filter , Reduce in Python.
 #
 #### p049.py =    WAP to show the use of Decorator in Python.
+#
+#### p050.py =    Write a first class program in Python.
+#
+#### p051.py =    WAP to explain the use of Instance variable and Class Variable in Python.
+#
+#### p052.py =    WAP to show the use of self and __init__ (constructors) in Python.
+#
+#### p053.py =    WAP to demonstrate class Methods in Python.
+#
+#### p054.py =    WAP to demonstrate class Methods as Alternative Constructors in Python.
+#
+#### p055.py =    WAP to demonstrate static Methods in Python.
